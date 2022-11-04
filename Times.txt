@@ -1,0 +1,80 @@
+Binary Search:
+
+  6 elements -> 00:00:00.0003850 ms
+  8 elements -> 00:00:00.0002648 ms
+  10 elements -> 00:00:00.0002392 ms
+  12 elements -> 00:00:00.0002590 ms
+  14 elements -> 00:00:00.0002725 ms
+
+The times of execution for the binary search algorithm do not seem to follow a particular pattern.
+I suspect that this variation is at least partially influenced by external factors, such as the time between trials.
+
+
+Linear Search:
+
+  6 elements -> 00:00:00.0000876 ms
+  8 elements -> 00:00:00.0000865 ms
+  10 elements -> 00:00:00.0000802 ms
+  12 elements -> 00:00:00.0000860 ms
+  14 elements -> 00:00:00.0000803 ms
+
+The times of execution for the linear search algorithm do not seem to follow a particular pattern.
+I suspect that this variation is at least partially influenced by external factors, such as the time between trials.
+
+
+Bubble Sort:
+
+  6 elements -> 00:00:00.0001110 ms
+  8 elements -> 00:00:00.0001224 ms
+  10 elements -> 00:00:00.0001335 ms
+  12 elements -> 00:00:00.0002052 ms
+  14 elements -> 00:00:00.0001165 ms
+
+The times of execution for the bubble sort algorithm seem to increase for the first four trials, but then suddenly decreases in the fifth trial.
+The first four trials were conducted in quick succession, but the fifth trial was conducted several minutes after the fourth, as I had just then realized that I was supposed to have at least five trials.
+I suspect that this sudden drop in execution time was caused by the increased time between trials.
+
+
+The binary search and linear search algorithms are both search algorithms, meaning that they return the position of a target value in a sorted array.
+Meanwhile, the bubble sort algorithm is a sorting algorithm, meaning that it takes an unsorted array and puts them in order.
+
+
+
+Selection Sort:
+
+  6 elements -> 00:00:00.0001406 ms
+  8 elements -> 00:00:00.0001249 ms
+  10 elements -> 00:00:00.0001578 ms
+  12 elements -> 00:00:00.0001283 ms
+  14 elements -> 00:00:00.0001279 ms
+
+The times of execution for the selection sort algorithm do not seem to follow a particular pattern.
+I suspect that this variation is at least partially influenced by external factors, such as the time between trials.
+
+
+Quick Sort:
+
+  6 elements -> 00:00:00.0002301 ms
+  8 elements -> 00:00:00.0004479 ms
+  10 elements -> 00:00:00.0002269 ms
+  12 elements -> 00:00:00.0002274 ms
+  14 elements -> 00:00:00.0002288 ms
+
+The times of execution for the quick sort algorithm do not seem to follow a particular pattern.
+I suspect that this variation is at least partially influenced by external factors, such as the time between trials.
+
+
+The bubble sort and selection sort algorithms do not use recursion. Meanwhile, the quick sort algorithm does use recursion.
+
+
+
+Merge Sort:
+
+  6 elements -> 00:00:00.0003133 ms
+  8 elements -> 00:00:00.0003149 ms
+  10 elements -> 00:00:00.0003551 ms
+  12 elements -> 00:00:00.0003161 ms
+  14 elements -> 00:00:00.0003176 ms
+
+The times of execution for the merge sort algorithm do not seem to follow a particular pattern.
+I suspect that this variation is at least partially influenced by external factors, such as the time between trials.

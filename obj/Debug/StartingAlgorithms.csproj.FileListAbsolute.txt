@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\StartingAlgorithms\bin\Debug\StartingAlgorithms.exe.config
+C:\Users\Administrator\source\repos\StartingAlgorithms\bin\Debug\StartingAlgorithms.exe
+C:\Users\Administrator\source\repos\StartingAlgorithms\bin\Debug\StartingAlgorithms.pdb
+C:\Users\Administrator\source\repos\StartingAlgorithms\obj\Debug\StartingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\StartingAlgorithms\obj\Debug\StartingAlgorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\StartingAlgorithms\obj\Debug\StartingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StartingAlgorithms\obj\Debug\StartingAlgorithms.exe
+C:\Users\Administrator\source\repos\StartingAlgorithms\obj\Debug\StartingAlgorithms.pdb
